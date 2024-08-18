@@ -1,4 +1,4 @@
-# Image Downloader from Unsplash
+# Image Downloader for Unsplash
 
 This Python script allows you to download images from Unsplash based on a list of titles provided in a CSV file. The script uses the Unsplash API to search for images and download them to a specified folder.
 
